@@ -1,0 +1,17 @@
+[33mcommit 5e9d83be36047fde6f439f162c03f7cad04e3e8b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Johan <jjvanvelzen@gmail.com>
+Date:   Thu Jan 25 10:55:38 2024 +0100
+
+    bestand helper.py toegevoegd
+
+[33mcommit 5e6376c18cf7f043642d25cbce16ecbb3a0338bb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alex van Winkel <alexicoo@gmail.com>
+Date:   Sun Feb 13 16:56:46 2022 -0500
+
+    deleted all finished python files
+
+[33mcommit 91b0cb10356b97d0a21a095f0ef4981f6f096c57[m
+Author: Alex van Winkel <alexicoo@gmail.com>
+Date:   Sun Feb 13 16:54:57 2022 -0500
+
+    initial commit
